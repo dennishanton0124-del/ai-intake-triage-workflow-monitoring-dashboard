@@ -81,7 +81,7 @@ You can download the Power BI dashboard here:
 
 Sample dataset used in the dashboard:
 
-[Download Sample Dataset](AI%20Intake%20Triage%20Sample%20Dataset%20-%20Sheet1.csv)
+[Download Sample Dataset](ai-intake-triage-sample-dataset-sheet1.csv)
 
 ---
 
